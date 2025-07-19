@@ -2,4 +2,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/hoodratleahh/Summer-U
 
 loadstring(game:HttpGet("https://paste.debian.net/plainh/957a0a7b/", true))()
 
-copyToClipboard("https://discord.gg/HsgfV6neRC")
+setClipboard("https://discord.gg/HsgfV6neRC")
