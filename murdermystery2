@@ -1,5 +1,2 @@
-loadstring(game:HttpGet("game:HttpGet("https://raw.githubusercontent.com/luizcrackz/overdrive-h/refs/heads/main/backup/main.lua")"))()
+loadstring(game:HttpGet("https://paste.debian.net/plainh/867ff7aa/", true))()
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/D3ATH-hub/multi/main/all_in_one.lua"))()
-
-loadstring(`ODH_ACCESS_KEY = "{key}";{payload}`)()
