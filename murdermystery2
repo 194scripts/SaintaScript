@@ -1,3 +1,3 @@
-loadstring(game:HttpGet("https://paste.debian.net/plainh/867ff7aa/", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SakurasScripts/mm2/refs/heads/main/just%20a%20flood%20escape%202%20script))()
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/SakurasScripts/mm2/refs/heads/main/zumsum))()
